@@ -1,0 +1,36 @@
+[
+  {
+    "binId": "22345",
+    "locationName": "Benne à piles - Centre Ville",
+    "isAvailable": "oui",
+    "capacity": 500,
+    "currentFillLevel": 250,
+    "coordinates": {
+      "lat": 50.685,
+      "lon": 2.885
+    },
+    "category": "Electronique",
+    "districtName": "Centre Ville",
+    "districtCode": "59280"
+  },
+  {
+    "binId": "22346",
+    "locationName": "Benne à piles - Centre Ville 2",
+    "isAvailable": "oui",
+    "capacity": 500,
+    "currentFillLevel": 450,
+    "coordinates": {
+      "lat": 50.682,
+      "lon": 2.868
+    },
+    "category": "Electronique",
+    "districtName": "Centre Ville",
+    "districtCode": "59280"
+  }
+]
+
+
+
+
+
+

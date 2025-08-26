@@ -1,0 +1,4 @@
+enum MarkerCategory {
+  Verre,
+  Electronique,
+}

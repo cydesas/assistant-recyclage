@@ -1,0 +1,30 @@
+[
+  {
+    "binId": "12345",
+    "locationName": "Benne à verre - Centre Ville",
+    "isAvailable": "oui",
+    "capacity": 500,
+    "currentFillLevel": 250,
+    "coordinates": {
+      "lat": 50.689,
+      "lon": 2.89
+    },
+    "category": "Verre",
+    "districtName": "Centre Ville",
+    "districtCode": "59280"
+  },
+  {
+    "binId": "12346",
+    "locationName": "Benne à verre - Centre Ville 2",
+    "isAvailable": "oui",
+    "capacity": 500,
+    "currentFillLevel": 450,
+    "coordinates": {
+      "lat": 50.675,
+      "lon": 2.86
+    },
+    "category": "Verre",
+    "districtName": "Centre Ville",
+    "districtCode": "59280"
+  }
+]
