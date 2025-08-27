@@ -176,7 +176,7 @@ flutter build ios --release  # iOS
 
 ### Démonstration
 
-> **Note** : Une démonstration vidéo complète est disponible dans la documentation du projet, montrant toutes les fonctionnalités en action.
+> **Note** : Une démonstration vidéo complète est disponible sur le site cyde.fr, montrant toutes les fonctionnalités en action.
 
 ## ⚙️ Configuration
 
@@ -265,69 +265,14 @@ genhtml coverage/lcov.info -o coverage/html
 
 ```
 feat: ajouter la géolocalisation des points de tri
-fix: corriger le bug de navigation sur iOS
+fix: corriger les bug
 docs: mettre à jour la documentation API
 style: reformater le code selon les standards
 refactor: restructurer le module de données
 test: ajouter des tests pour le guide de recyclage
-```
 
-## 🗺️ Roadmap
-
-### Version 1.1 (Q2 2024)
-
-- [ ] Intégration complète Google Maps API
-- [ ] Système de notifications push
-- [ ] Mode hors ligne avec synchronisation
-- [ ] Support multilingue (EN, ES, DE)
-
-### Version 1.2 (Q3 2024)
-
-- [ ] Intelligence artificielle pour l'identification des matériaux
-- [ ] Intégration avec les systèmes municipaux
-- [ ] Tableau de bord analytique pour les collectivités
-- [ ] API publique pour les développeurs tiers
-
-### Version 2.0 (Q4 2024)
-
-- [ ] Application web responsive
-- [ ] Intégration IoT pour les capteurs de tri
-- [ ] Gamification et système de récompenses
-- [ ] Partenariats avec les acteurs du recyclage
-
-### Idées en cours de réflexion
-
-- **Blockchain** : Traçabilité des déchets recyclés
-- **AR/VR** : Expériences immersives d'éducation environnementale
-- **Machine Learning** : Prédiction des tendances de recyclage
-- **API Marketplace** : Écosystème de développeurs tiers
-
-## 💬 Communauté & Support
-
-### Canaux officiels
-
-- **GitHub Issues** : [Signaler un bug](https://github.com/votre-username/assistant-recyclage/issues)
-- **GitHub Discussions** : [Poser une question](https://github.com/votre-username/assistant-recyclage/discussions)
-- **Documentation** : [Wiki du projet](https://github.com/votre-username/assistant-recyclage/wiki)
-
-### Support technique
-
-- **FAQ** : Questions fréquemment posées dans la documentation
-- **Troubleshooting** : Guide de résolution des problèmes courants
-- **Exemples** : Code samples et cas d'usage dans `/examples`
-
-### Équipe de maintenance
-
-- **Lead Developer** : [@votre-username](https://github.com/votre-username)
-- **Product Owner** : [@product-owner](https://github.com/product-owner)
-- **UX/UI Designer** : [@designer](https://github.com/designer)
-
-## 📄 Licence
-
-Ce projet est distribué sous la licence **MIT**. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ```
-MIT License
 
 Copyright (c) 2024 Assistant de Recyclage
 
@@ -364,12 +309,6 @@ SOFTWARE.
 - [Flutter Best Practices](https://docs.flutter.dev/development/ui/layout/building-adaptive-apps) - Guide des bonnes pratiques Flutter
 - [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) - Principes d'architecture logicielle
 - [Mobile App Security](https://owasp.org/www-project-mobile-top-10/) - Sécurité des applications mobiles
-
-### Projets similaires
-
-- [EcoGator](https://ecogator.org/) - Guide de recyclage européen
-- [Recycle Coach](https://recyclecoach.com/) - Assistant de recyclage municipal
-- [Junk or Treasure](https://junkortreasure.com/) - Identification des objets recyclables
 
 ---
 
